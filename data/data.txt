@@ -1,0 +1,2 @@
+Download all the data from Kaggle :
+https://www.kaggle.com/competitions/ga-customer-revenue-prediction/data?select=test_v2.csv
