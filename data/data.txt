@@ -1,2 +1,10 @@
 Download the followling datasets from Kaggle :
 https://www.kaggle.com/competitions/ga-customer-revenue-prediction/data?select=test_v2.csv
+The Datafiles are:
+ train.csv 
+ test.csv
+ sample_submission
+ sample_submission_v2
+ test
+ train
+
