@@ -7,7 +7,7 @@ Develop a predictive model using G-Store dataset to predict the total revenue fo
 ## Problem Solution
 Develop a predictive model using G-Store dataset to predict the total revenue for the customer that helps in better user of marketing budget and also interpret the most impacting element on the total revenue prediction using different model.
 
-##The Data Files are
+## The Data Files are
 Download the followling datasets from Kaggle :
  train.csv 
  test.csv
